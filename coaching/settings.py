@@ -142,7 +142,7 @@ EMAIL_HOST ='smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'rspatil0103@gmail.com'
-EMAIL_HOST_PASSWORD = 'Rishi@2000'
+EMAIL_HOST_PASSWORD = '__password__'
 
 MESSAGE_TAGS = {
     messages.ERROR:'danger',
